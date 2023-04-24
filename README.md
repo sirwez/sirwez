@@ -2,7 +2,7 @@
 
 ## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px">, I'm Weslley! 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sirwez/)
-[![Portifolio Badge](https://img.shields.io/badge/-%F0%9F%92%BB%20Portifolio-blue)](sirwez.github.io)
+[![Portifolio Badge](https://img.shields.io/badge/-%F0%9F%92%BB%20Portifolio-blue)](https://sirwez.github.io/portfolio/)
 
 As a proactive Backend Developer, I am passionate about using technology to solve real-world problems and help others. My curiosity and dedication to learning enable me to excel at tackling complex challenges and delivering efficient, high-quality solutions. I believe that the key to success in this field is staying up-to-date with the latest industry developments and best practices, and I am committed to continuously expanding my knowledge and skills to stay ahead of the curve. Overall, my goal is to work collaboratively with my team to deliver innovative solutions that make a meaningful impact in the world.
 
