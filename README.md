@@ -1,4 +1,4 @@
-<img align="right" src="https://i.imgur.com/JcA8xdl.png" width="500"/>
+<img align="right" src="https://i.imgur.com/Xkvc9Py.png" width="500"/>
 
 ## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px">, I'm Weslley! 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sirwez/)
