@@ -6,7 +6,7 @@
 
 As a proactive Backend Developer, I am passionate about using technology to solve real-world problems and help others. My curiosity and dedication to learning enable me to excel at tackling complex challenges and delivering efficient, high-quality solutions. I believe that the key to success in this field is staying up-to-date with the latest industry developments and best practices, and I am committed to continuously expanding my knowledge and skills to stay ahead of the curve. Overall, my goal is to work collaboratively with my team to deliver innovative solutions that make a meaningful impact in the world.
 
-Check out my portfolio at sirwez.github.io and feel free to visit my Github at https://github.com/sirwez to see my recent projects.
+Check out my portfolio at [sirwez.github.io](https://sirwez.github.io/portfolio/) and feel free to visit my Github at https://github.com/sirwez to see my recent projects.
 ### Tech Stack
  - 💻 Programming Languages: **PHP**, Javascript.
  - ☁️ Backend Development Framework & Tools: Laravel, Symfony, Apache, Git, PHPUnit, Composer
